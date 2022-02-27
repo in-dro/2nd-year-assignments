@@ -1,0 +1,4 @@
+gcc Recursion.c -o
+
+gcc -save-temps Recursion.c -o Recursion
+
